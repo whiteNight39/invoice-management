@@ -40,7 +40,7 @@ A backend service for creating, managing, and summarizing invoices with VAT supp
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/whiteNight39/invoice-management
 cd invoice-management
 ```
 2. Install Dependencies:
